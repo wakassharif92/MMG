@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.flutter_mmg_bottomnavigation2">
+    package="com.example.mmg_flutter_v1">
    <application
         android:label="Muslim Marriage Guide"
         android:icon="@mipmap/ic_launcher">
